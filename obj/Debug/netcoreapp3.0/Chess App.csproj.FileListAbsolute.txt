@@ -1,0 +1,11 @@
+C:\Users\starf\Desktop\Chess App\obj\Debug\netcoreapp3.0\Chess App.csprojAssemblyReference.cache
+C:\Users\starf\Desktop\Chess App\obj\Debug\netcoreapp3.0\Chess App.AssemblyInfoInputs.cache
+C:\Users\starf\Desktop\Chess App\obj\Debug\netcoreapp3.0\Chess App.AssemblyInfo.cs
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.exe
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.deps.json
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.runtimeconfig.json
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.runtimeconfig.dev.json
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.dll
+C:\Users\starf\Desktop\Chess App\bin\Debug\netcoreapp3.0\Chess App.pdb
+C:\Users\starf\Desktop\Chess App\obj\Debug\netcoreapp3.0\Chess App.dll
+C:\Users\starf\Desktop\Chess App\obj\Debug\netcoreapp3.0\Chess App.pdb
